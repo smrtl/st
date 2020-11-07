@@ -40,6 +40,50 @@ This customised st contains the following patches:
   whether the termimal is focused or not
 - better support for image in terminal (w3m images hack)
 - anysize: do not snap window size to full rows/height
+- Xresources support: see configuration options below
+
+
+Configuration
+-------------
+The following settings can be set via ~/.Xresources:
+
+- st.font
+- st.color0
+- st.color1
+- st.color2
+- st.color3
+- st.color4
+- st.color5
+- st.color6
+- st.color7
+- st.color8
+- st.color9
+- st.color10
+- st.color11
+- st.color12
+- st.color13
+- st.color14
+- st.color15
+- st.foreground
+- st.background
+- st.backgroundUnfocused
+- st.alpha
+- st.alphaUnfocused
+- st.cursorColor
+- st.rcursorColor
+- st.cursorshape
+- st.termname
+- st.shell
+- st.minlatency
+- st.maxlatency
+- st.blinktimeout
+- st.bellvolume
+- st.tabspaces
+- st.borderpx
+- st.cwscale
+- st.chscale
+
+See config.def.h for more details.
 
 
 Credits
