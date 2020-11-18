@@ -6,6 +6,7 @@ st is a simple terminal emulator for X which sucks less.
 Requirements
 ------------
 In order to build st you need the Xlib header files.
+The ligatures patch requires the harfbuzz header files.
 
 
 Installation
@@ -34,6 +35,7 @@ Applied patches
 This customised st contains the following patches:
 
 - scrollback with mouse wheel (incl. altscreen) support
+- font ligatures support
 
 
 Credits
