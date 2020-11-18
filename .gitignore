@@ -1,0 +1,9 @@
+# Build products
+*.o
+st
+
+# Patches
+patches
+
+# Config overrides
+config.h
