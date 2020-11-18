@@ -39,6 +39,7 @@ This customised st contains the following patches:
 - alpha + focus: different background colors and opacity values depending on
   whether the termimal is focused or not
 - better support for image in terminal (w3m images hack)
+- anysize: do not snap window size to full rows/height
 
 
 Credits
