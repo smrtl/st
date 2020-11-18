@@ -36,6 +36,8 @@ This customised st contains the following patches:
 
 - scrollback with mouse wheel (incl. altscreen) support
 - font ligatures support
+- alpha + focus: different background colors and opacity values depending on
+  whether the termimal is focused or not
 
 
 Credits
